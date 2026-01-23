@@ -1,6 +1,9 @@
-/**
- * Note: The returned array must be malloced, assume caller calls free().
+**
+ * Problem: 1: Two Sum
+ * Link: https://leetcode.com/problems/two-sum/
+ * Method: O(n^2) Brute Force with nested loops and manual malloc.
  */
+    
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 
     int * result = malloc(2 * sizeof(int));
