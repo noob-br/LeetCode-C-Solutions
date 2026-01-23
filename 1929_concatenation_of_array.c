@@ -1,7 +1,7 @@
 /**
  * Problem: 1929. Concatenation of Array
  * Link: https://leetcode.com/problems/concatenation-of-array/
- * Method: Manual memory allocation (malloc) for maximum integrity. 🛡️
+ * Method: Manual memory allocation (malloc) for maximum integrity.
  */
     
     int n = numsSize;
