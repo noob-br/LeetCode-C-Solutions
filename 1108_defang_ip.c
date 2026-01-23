@@ -1,3 +1,8 @@
+/**
+ * Problem: 1108. Defanging an IP Address
+ * Link: https://leetcode.com/problems/defanging-an-ip-address/
+ * Method: O(n) String reconstruction with manual memory allocation.
+ */
 
 char * defangIPaddr(char * address){
 char * ans = malloc(22 * sizeof(char));
