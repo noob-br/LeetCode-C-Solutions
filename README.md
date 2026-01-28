@@ -13,10 +13,11 @@ Repository for tracking progress on LeetCode problems using C. Focused on manual
 
 | # | Problem | Solution | Difficulty | Complexity | Completed |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Code](./0001_two_sum.c) | Easy | $O(n^2)$ | 2026-01-26 |
-| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [View Code](./1108_defang_ip.c) | Easy | $O(n)$ | 2026-01-22 |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [View Code](./1929_concatenation_of_array.c) | Easy | $O(n)$ | 2026-01-22 |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [View Code](./2235_add_two_integers.c) | Easy | $O(1)$ | 2026-01-05 |
+| 0001 | [Two Sum](./0001_two_sum.c) | [View Code](./0001_two_sum.c) | Easy | $O(n^2)$ | 2026-01-26 |
+| 0027 | [Remove Element](./0027_remove_element.c) | [View Code](./0027_remove_element.c) | Easy | $O(n)$ | 2026-01-28 |
+| 1108 | [Defanging an IP Address](./1108_defang_ip.c) | [View Code](./1108_defang_ip.c) | Easy | $O(n)$ | 2026-01-22 |
+| 1929 | [Concatenation of Array](./1929_concatenation_of_array.c) | [View Code](./1929_concatenation_of_array.c) | Easy | $O(n)$ | 2026-01-22 |
+| 2235 | [Add Two Integers](./2235_add_two_integers.c) | [View Code](./2235_add_two_integers.c) | Easy | $O(1)$ | 2026-01-05 |
 
 ---
 
